@@ -6,10 +6,10 @@ A minimal, fully local **GenAI chat application** built with **FastAPI** (backen
 Runs entirely on your machine — no cloud, no API keys, no cost.
 
 ![screenshot placeholder](docs/screenshot.png)
-<!-- TODO: add a screenshot at docs/screenshot.png -->
+<!-- TODO: add a screenshot at docs/screenshot.png 
 <p align="center">
   <img src="docs/screenshot.png" alt="GenAI Chat screenshot" width="720" />
-</p>
+</p> -->
 
 ## Features
 
